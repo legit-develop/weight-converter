@@ -17,7 +17,7 @@ body {
 }
 
 .heading {
-  font-size: 28px;
+  font-size: 35px;
 }
 
 .input-container {
@@ -26,6 +26,10 @@ body {
   align-items: center;
   font-size: 17px;
   font-weight: 600;
+}
+
+label {
+  font-size: 20px;
 }
 
 .input {
@@ -38,4 +42,12 @@ body {
   outline: none;
   color: #243763;
   font-weight: 600;
+}
+
+p {
+  font-size: 18px;
+}
+
+.error {
+  color: #e0144c;
 }
