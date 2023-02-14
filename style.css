@@ -15,3 +15,15 @@ body {
   width: 85%;
   max-width: 450px;
 }
+
+.heading {
+  font-size: 28px;
+}
+
+.input-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 17px;
+  font-weight: 600;
+}
