@@ -27,3 +27,15 @@ body {
   font-size: 17px;
   font-weight: 600;
 }
+
+.input {
+  padding: 12px;
+  width: 70%;
+  background: rgba(255, 255, 255, 0.2);
+  border-color: rgba(255, 255, 255, 0.5);
+  font-size: 17px;
+  border-radius: 10px;
+  outline: none;
+  color: #243763;
+  font-weight: 600;
+}
